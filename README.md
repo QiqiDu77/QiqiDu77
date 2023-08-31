@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+### 
+- 🌱 I’m currently learning React and Vue...
+- 🤔 I’m looking for job ...
+- 📫 How to reach me: (QQ)280830422 (Mail)280830422@qq.com 
+- ⚡ Fun fact: i love delicious food!!!
+- 💬 Ask me about **React, Vue, Pythone ect.**
+
+### 𝗦𝘁𝗮𝘁𝘀
+
+![QiqiDu77's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=QiqiDu77&count_private=true&show_icons=true&theme=panda)
+
+
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=QiqiDu77&layout=compact&theme=panda)
+
+
 <!--
 **QiqiDu77/QiqiDu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
