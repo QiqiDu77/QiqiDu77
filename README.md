@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋Hi! I'm 
+
+### Welcome to my GitHub profile👋
 
 ### 
 - 🌱 I’m currently learning React and Vue...
@@ -6,6 +8,10 @@
 - 📫 How to reach me: (QQ)280830422 (Mail)280830422@qq.com 
 - ⚡ Fun fact: i love delicious food!!!
 - 💬 Ask me about **React, Vue, Pythone ect.**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
