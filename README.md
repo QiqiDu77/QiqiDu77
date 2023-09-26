@@ -1,6 +1,8 @@
 ### <h1 align="center">Hi👋 I'm Gigi😀!</h1>
 
-### <h3 align="center">Welcome to my GitHub profile👋</h3>
+<h3 align="center">Welcome to my GitHub profile👋</h3>
+
+<img src="https://picx.zhimg.com/80/v2-fdccfed4da623c9be895627134df9a22_1440w.webp?source=1940ef5c" alt="show"/>
 
 ### 
 - 🌱 I’m currently learning React and Vue...
