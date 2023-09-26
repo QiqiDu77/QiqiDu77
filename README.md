@@ -1,6 +1,6 @@
-### 👋Hi! I'm 
+### <h1 align="center">Hi👋 I'm Gigi😀!</h1>
 
-### Welcome to my GitHub profile👋
+### <h3 align="center">Welcome to my GitHub profile👋</h3>
 
 ### 
 - 🌱 I’m currently learning React and Vue...
